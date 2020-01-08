@@ -24,5 +24,10 @@
 3. 시뮬레이션 문제
 	* https://www.acmicpc.net/problem/1094
 	* https://www.acmicpc.net/problem/2164
+	* https://www.acmicpc.net/problem/1547
+	* https://www.acmicpc.net/problem/5532
+	* https://www.acmicpc.net/problem/2161
+	* https://www.acmicpc.net/problem/1592
+	* https://www.acmicpc.net/problem/1526
 *****
 
