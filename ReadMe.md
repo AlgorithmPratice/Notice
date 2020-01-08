@@ -20,6 +20,7 @@
 *****
 2. 스택 응용 문제
 	* https://www.acmicpc.net/problem/10799
+	* https://www.acmicpc.net/problem/3986
 *****
 3. 시뮬레이션 문제
 	* https://www.acmicpc.net/problem/1094
