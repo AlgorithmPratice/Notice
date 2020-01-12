@@ -32,3 +32,18 @@
 	* https://www.acmicpc.net/problem/1526
 *****
 
+3주차 알고리즘 과제(1월 20일까지)
+-----
+1.큐 구현
+	* 기본 메소드 구현(Push(삽입), Pop(삭제), Peek(제일 상위값 읽기),isEmpty(비었는지판별))
+*****
+2. 큐 응용 문제
+	* https://www.acmicpc.net/problem/18258
+	* https://www.acmicpc.net/problem/1966
+*****
+3. 시뮬레이션 문제
+	* https://www.acmicpc.net/problem/1120
+	* https://www.acmicpc.net/problem/1018
+	* https://www.acmicpc.net/problem/2979
+	* https://www.acmicpc.net/problem/1551
+*****
