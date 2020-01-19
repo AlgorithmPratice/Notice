@@ -47,3 +47,23 @@
 	* https://www.acmicpc.net/problem/2979
 	* https://www.acmicpc.net/problem/1551
 *****
+
+@@수정중@@
+4주차 알고리즘 과제(1월 27일까지)
+-----
+1.OOO 구현
+	* 기본 메소드 구현(add(삽입), get)
+*****
+2. OOO 응용 문제
+	* 
+	* 
+*****
+3. 시뮬레이션 문제
+	* https://www.acmicpc.net/problem/9517
+	* https://www.acmicpc.net/problem/5373
+*****
+4. 탐색
+	* https://www.acmicpc.net/problem/1026
+	* https://www.acmicpc.net/problem/1100
+	* https://www.acmicpc.net/problem/1436
+	* https://www.acmicpc.net/problem/1302
