@@ -63,7 +63,6 @@
 4. 탐색
 	+ https://www.acmicpc.net/problem/1026
 	+ https://www.acmicpc.net/problem/1100
-	+ https://www.acmicpc.net/problem/1436
 *****
 5. 블루투포스 
 	+ https://www.acmicpc.net/problem/7568
