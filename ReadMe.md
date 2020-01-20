@@ -34,7 +34,7 @@
 
 3주차 알고리즘 과제(1월 20일까지)
 -----
-1.큐 구현
+1. 큐 구현
 	+ 기본 메소드 구현(Push(삽입), Pop(삭제), Peek(제일 상위값 읽기),isEmpty(비었는지판별))
 *****
 2. 큐 응용 문제
@@ -65,7 +65,7 @@
 	+ https://www.acmicpc.net/problem/1100
 	+ https://www.acmicpc.net/problem/1436
 *****
-5.블루투포스 
+5. 블루투포스 
 	+ https://www.acmicpc.net/problem/7568
 	+ https://www.acmicpc.net/problem/2231
 	+ https://www.acmicpc.net/problem/1436
