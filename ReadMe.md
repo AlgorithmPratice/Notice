@@ -70,4 +70,17 @@
 	+ https://www.acmicpc.net/problem/1436
 *****
 	
-	
+5주차 알고리즘 과제(2월 03일까지)
+-----
+1. 해싱 응용 문제
+	+ https://programmers.co.kr/learn/courses/30/lessons/42576
+	+ https://programmers.co.kr/learn/courses/30/lessons/42577
+*****
+2. 시뮬레이션 문제
+	+ https://www.acmicpc.net/problem/11559
+*****
+3. 완전탐색
+	+ https://programmers.co.kr/learn/courses/30/lessons/42840
+	+ https://programmers.co.kr/learn/courses/30/lessons/42839
+*****
+
