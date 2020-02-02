@@ -84,3 +84,19 @@
 	+ https://programmers.co.kr/learn/courses/30/lessons/42839
 *****
 
+6주차 알고리즘 과제(2월 10일까지)
+-----
+1. 백트랙킹 강의 
+	+ https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AV3Fvw66AAYBBARB# (SW Expert Academy - Learn - Programming Advanced - 백트래킹)
+*****
+2. 백트랙킹 구현
+	+ 순열(Permutation), 조합(Combination) 구현하기
+*****
+3. BFS & DFS 강의
+	+ https://www.youtube.com/watch?v=_hxFgg7TLZQ&t=120s
+*****
+3. BFS & DFS 응용문제
+	+ https://www.acmicpc.net/problem/1260
+	+ https://www.acmicpc.net/problem/7576
+	+ https://www.acmicpc.net/problem/14502
+*****
