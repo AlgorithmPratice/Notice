@@ -100,3 +100,16 @@
 	+ https://www.acmicpc.net/problem/7576
 	+ https://www.acmicpc.net/problem/14502
 *****
+7주차 알고리즘 과제(2월 17일까지)
+-----
+
+1. 백트랙킹 문제
+	+ https://www.acmicpc.net/problem/9663
+	+ https://www.acmicpc.net/problem/2661
+*****
+2. BFS & DFS 문제
+	+ https://www.acmicpc.net/problem/11403
+	+ https://www.acmicpc.net/problem/11724
+*****
+3. 시뮬레이션 문제
+	+ https://www.acmicpc.net/problem/3055
