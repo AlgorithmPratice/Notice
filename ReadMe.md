@@ -113,3 +113,16 @@
 *****
 3. 시뮬레이션 문제
 	+ https://www.acmicpc.net/problem/3055
+*****
+8주차 알고리즘 과제(3월 2일까지)
+-----
+
+1. 백트랙킹 문제
+	+ https://www.acmicpc.net/problem/1339
+*****
+2. BFS & DFS 문제
+	+ https://www.acmicpc.net/problem/2583
+	+ https://www.acmicpc.net/problem/2468
+*****
+3. 기출 문제
+	+ https://www.acmicpc.net/problem/13460
