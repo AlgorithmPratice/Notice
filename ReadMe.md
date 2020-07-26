@@ -126,3 +126,13 @@
 *****
 3. 기출 문제
 	+ https://www.acmicpc.net/problem/13460
+	
+*****
+9주차 알고리즘 과제(20년 7월 31일까지)
+-----
+
+1. leetCode 문제
+	+ https://leetcode.com/problems/maximum-binary-tree/
+	+ https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+*****
+
