@@ -136,3 +136,22 @@
 	+ https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 *****
 
+*****
+10주차 알고리즘 과제(20년 8월 9일까지)
+-----
+
+1. leetCode 문제
+        + 알고리즘 문제해결 전략 3단원 끝
+	+ https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+	+ https://leetcode.com/problems/keys-and-rooms/
+*****
+
+*****
+11주차 알고리즘 과제(20년 8월 16일까지)
+-----
+
+1. leetCode 문제
+        + 알고리즘 문제해결 전략 5단원 끝
+	+ https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+	+ https://leetcode.com/problems/symmetric-tree/
+*****
