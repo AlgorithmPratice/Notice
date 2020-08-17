@@ -156,3 +156,15 @@
 	+ https://leetcode.com/problems/symmetric-tree/
 	+ https://programmers.co.kr/learn/courses/30/lessons/64061
 *****
+
+*****
+12주차 알고리즘 과제(20년 8월 23일까지)
+-----
+
+1. 문제
+	+ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+	+ https://programmers.co.kr/learn/courses/30/lessons/67256?language=java
+	+ https://codeforces.com/problemset/problem/4/A
+*****
+
+
