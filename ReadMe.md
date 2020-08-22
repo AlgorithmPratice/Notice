@@ -167,4 +167,15 @@
 	+ https://codeforces.com/problemset/problem/4/A
 *****
 
+*****
+13주차 알고리즘 과제(20년 8월 30일까지)
+-----
+
+1. 문제 : Greedy, 백준.. --> 차후에 코드포스로
+	+ https://leetcode.com/problems/partition-labels/
+	+ https://programmers.co.kr/learn/courses/30/lessons/64065?language=java
+	+ https://www.acmicpc.net/problem/1541
+*****
+
+
 
