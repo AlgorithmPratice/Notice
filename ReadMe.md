@@ -184,5 +184,5 @@
 1. 문제 : 백준 문제집 단기간 성장 시작!
 	+ https://www.acmicpc.net/problem/11758
 	+ https://www.acmicpc.net/problem/14725
-	+ https://www.welcomekakao.com/learn/courses/30/lessons/17680?language=java
+	+ https://www.welcomekakao.com/learn/courses/30/lessons/42890?language=java
 *****
