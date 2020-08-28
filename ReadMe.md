@@ -172,10 +172,17 @@
 -----
 
 1. 문제 : Greedy, 백준.. --> 차후에 코드포스로
-	+ https://leetcode.com/problems/partition-labels/
+	+ https://leetcode.com/problems/partition-labels/ -- 문제 이해가........ ㅠㅠ.. 추후에 다시 풀기
 	+ https://programmers.co.kr/learn/courses/30/lessons/64065?language=java
 	+ https://www.acmicpc.net/problem/1541
 *****
 
+*****
+14주차 알고리즘 과제(20년 9월 06일까지)
+-----
 
-
+1. 문제 : 백준 문제집 단기간 성장 시작!
+	+ https://www.acmicpc.net/problem/11758
+	+ https://www.acmicpc.net/problem/14725
+	+ https://www.welcomekakao.com/learn/courses/30/lessons/17677?language=java
+*****
